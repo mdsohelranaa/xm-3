@@ -1,0 +1,125 @@
+@media(max-width:1900px){
+  
+}
+@media(max-width:1500px){
+  
+}
+@media(max-width:1200px){
+    .top-header-left {
+        width: 50%;
+    }
+    .top-header-right {
+        width: 50%;
+    }
+ 
+    .about-text {
+        padding-left: 25px;
+        margin-top: 85px;
+    }
+    .award {
+        padding: 44px 44px;
+        max-width: 900px;
+        margin-top: 75px;
+        margin-left: 144px;
+
+    }
+    .carousel-caption {
+        bottom: 8.25rem;
+    }
+    .test-form {
+        margin-top: 50px;
+    }
+
+}
+@media(max-width:1150px){
+    .award {
+        padding: 44px 44px;
+        max-width: 900px;
+        margin-top: 75px;
+        margin-left: 70px;
+    }
+}
+@media(max-width:1000px){
+    .top-header-left p {
+       font-size: 13px;
+        display: ruby-base;
+    }
+    .top-header-right p {
+        font-size: 13px;
+    }
+   
+    .award {
+        max-width: 721px;
+        margin-left: 95px;
+    }
+    .one {
+        margin-top: 33px;
+    }
+    .source-hover {
+        margin-top: 31px;
+        z-index: 100;
+    }
+}
+@media(max-width:991px){
+    .header-iconbar ul li span i {
+        opacity: 0;
+        visibility: hidden;
+    }
+
+}
+
+@media(max-width:900px){
+    .award {
+        padding: 44px 44px;
+        max-width: 567px;
+        margin-top: 75px;
+        margin-left: 54px;
+    }
+}
+@media(max-width:800px){
+    .top-header-left {
+        max-width: 100%;
+        
+    }
+    .top-header-right p {
+        font-size: 13px;
+        visibility: hidden;
+    }
+}
+@media(max-width:700px){
+    .top-header-right p {
+        padding: 0px 0;
+    }
+    .award {
+        padding: 44px 44px;
+        max-width: 486px;
+        margin-top: 75px;
+        margin-left: 54px;
+    }
+}
+@media(max-width:600px){
+    .award {
+        padding: 44px 44px;
+        max-width: 368px;
+        margin-top: 75px;
+        margin-left: 54px;
+    }
+}
+@media(max-width:500px){
+   
+    .award {
+        max-width: 320px;
+        margin-left: 54px;
+    }
+}
+@media(max-width:400px){
+    .top-header{
+        display: none;
+    }
+    .award {
+        padding: 44px 44px;
+        max-width: 266px;
+        margin-top: 75px;
+        margin-left: 54px;
+    }
+}
